@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\ConstantGameSpeedIndependentOfVariableFPS.cpp" />
     <ClCompile Include="src\ConstantGameSpeedWithMaximumFPS.cpp" />
     <ClCompile Include="src\FPSDependentOnConstantGameSpeed.cpp" />
     <ClCompile Include="src\GameSpeedDependentOnVariableFPS.cpp" />
@@ -26,6 +27,7 @@
     <ClCompile Include="src\NavieApproach.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\ConstantGameSpeedIndependentOfVariableFPS.h" />
     <ClInclude Include="src\ConstantGameSpeedWithMaximumFPS.h" />
     <ClInclude Include="src\GameSpeedDependentOnVariableFPS.h" />
     <ClInclude Include="src\FPSDependentOnConstantGameSpeed.h" />
