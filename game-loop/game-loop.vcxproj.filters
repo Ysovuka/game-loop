@@ -18,11 +18,17 @@
     <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\FPSDependentOnConstantGameSpeed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="src\NavieApproach.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\FPSDependentOnConstantGameSpeed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="src\NaiveApproach.h">
       <Filter>Header Files</Filter>
     </ClInclude>

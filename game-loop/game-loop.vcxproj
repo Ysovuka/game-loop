@@ -19,10 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\FPSDependentOnConstantGameSpeed.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\NavieApproach.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\FPSDependentOnConstantGameSpeed.h" />
     <ClInclude Include="src\NaiveApproach.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
