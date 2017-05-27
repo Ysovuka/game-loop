@@ -20,10 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\FPSDependentOnConstantGameSpeed.cpp" />
+    <ClCompile Include="src\GameSpeedDependentOnVariableFPS.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\NavieApproach.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\GameSpeedDependentOnVariableFPS.h" />
     <ClInclude Include="src\FPSDependentOnConstantGameSpeed.h" />
     <ClInclude Include="src\NaiveApproach.h" />
   </ItemGroup>
