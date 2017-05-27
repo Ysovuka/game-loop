@@ -24,6 +24,9 @@
     <ClCompile Include="src\NavieApproach.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\ConstantGameSpeedWithMaximumFPS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="src\GameSpeedDependentOnVariableFPS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\GameSpeedDependentOnVariableFPS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ConstantGameSpeedWithMaximumFPS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
